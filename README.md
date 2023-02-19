@@ -1,4 +1,4 @@
-# blender-dev-devcontainer
+# blender-devcontainer
 
 This repository is a template for a simple devcontainer-based plugin development setup for Blender. It allows you to launch Blender with one click and interactively debug any Python plugins directly in VS Code with no extra steps. It was created to quickly and easily develop plugins for Blender without mucking with paths and with the full debugging, refactoring, linting and testing capabilities of Python in VS Code. What's more, the Blender plugin shows full intellisense and debugging data for `bpy` and other packages in Blender. You can also install any custom packages using `requirements.txt` and they will be available to use in your Blender plugin.
 
