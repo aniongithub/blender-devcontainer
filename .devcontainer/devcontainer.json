@@ -7,7 +7,7 @@
 			"extensions": [
 				"ms-python.python",
 				"augustocdias.tasks-shell-input",
-				"cweijan.vscode-typora"
+				"zaaack.markdown-editor"
 			]
 		}
 	},
