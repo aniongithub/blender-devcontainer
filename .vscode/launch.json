@@ -3,7 +3,7 @@
     "configurations": [
         {
             "name": "Debug Blender",
-            "type": "python",
+            "type": "debugpy",
             "request": "attach",
             "processId": "${input:blender_pid}",
             "justMyCode": true,

@@ -14,6 +14,7 @@
 	"containerEnv": {
 		"XDG_CONFIG_HOME": "${containerWorkspaceFolder}/config",
 		"BLENDER_USER_SCRIPTS": "${containerWorkspaceFolder}",
+		"BLENDER_SYSTEM_EXTENSIONS": "${containerWorkspaceFolder}",
 		"PYTHONPATH": "$PYTHONPATH:/usr/share/blender/scripts/modules"
 	},
 	"initializeCommand": "xhost +SI:localuser:root || true",
